@@ -18,17 +18,17 @@ export const metadata: Metadata = {
   keywords: [
     "web development, mobile app development, SEO services, business growth, digital marketing, web solutions, mobile solutions, search engine optimization, best web design company in kerala, best SEO service in kerala, best mobile app development in kerala",
   ],
-  authors: [{ name: "Adcelerate", url: "https://adceleratex.com" }],
+  authors: [{ name: "ShopOrStop", url: "https://shoporstop.com" }],
   robots: "index, follow",
   openGraph: {
     title:
       "Accelerate Innovation and Success with Expert Web, Mobile, and SEO Services",
     description:
       "Tailored digital solutions that accelerate business growth with expert web development, mobile app creation, and SEO strategies.",
-    images: [
-      "https://tony-next-ecommerce.s3.ap-south-1.amazonaws.com/adcelerate/AdcelerateX-og-image.png",
-    ],
-    url: "https://adceleratex.com",
+    // images: [
+    //   "https://tony-next-ecommerce.s3.ap-south-1.amazonaws.com/adcelerate/AdcelerateX-og-image.png",
+    // ],
+    url: "https://shoporstop.com",
     type: "website",
   },
 };
