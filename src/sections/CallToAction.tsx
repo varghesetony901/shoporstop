@@ -93,7 +93,7 @@ export const CallToAction = () => {
               <Button
                 onClick={() =>
                   (window.location.href =
-                    "mailto:support@adceleratex.com?subject=Inquiry")
+                    "mailto:varghesetony901@gmail.com?subject=Inquiry")
                 }
                 className="cursor-pointer"
               >

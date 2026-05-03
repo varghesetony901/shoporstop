@@ -95,9 +95,9 @@ export const Hero = () => {
 
       <div className="container relative mt-28">
         <h2 className=" text-center text-[50px] md:text-[70px] lg:text-[100px] leading-none font-semibold tracking-tighter bg-white bg-[radial-gradient(100%_100%_at_top_left,white,white,rgb(74,32,138,.5))] text-transparent bg-clip-text">
-          Adcelerate<span className="text-yellow-500">X</span>
+          ShopOr<span className="text-yellow-500">Stop</span>
         </h2>
-        <h1 className="text-center text-base tracking-widest font-semibold">
+        <h1 className="text-center text-base tracking-widest font-semibold mt-2">
           BUILDING TOMORROW&apos;S DIGITAL SOLUTIONS TODAY
         </h1>
 

@@ -11,11 +11,10 @@ export const Footer = () => {
         <div className="w-32 h-10 inline-flex justify-center items-center border-white/15">
           <div className="w-36 h-auto inline-flex justify-center items-center border-white/15">
             {/* <Image src={"/assets/logo.png"} width={100} height={20} alt="Adcelerate X logo"  className="w-full"/> */}
-            <div className="text-[21px] font-bold tracking-wide ">
-              Adcelerate
-            </div>
+            <div className="text-[21px] font-bold tracking-wide ">ShopOr</div>
+
             <div className="text-[21px] font-bold tracking-wide text-yellow-400 ">
-              X
+              Stop
             </div>
           </div>
         </div>
@@ -39,7 +38,7 @@ export const Footer = () => {
           <SocialYoutube />
           <SocialLinkedIn />
         </div> */}
-        <p className="mt-6 ">&copy; 2025 Adcelerate X. All rights reserved.</p>
+        <p className="mt-6 ">&copy; 2026 ShopOrStop. All rights reserved.</p>
       </div>
     </footer>
   );

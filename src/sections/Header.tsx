@@ -10,11 +10,10 @@ export const Header = () => {
         <div className="flex justify-between items-center md:border border-white/15 md:p-2.5 rounded-xl max-w-2xl mx-auto md:backdrop-blur">
           <div className="w-36 h-auto inline-flex justify-center items-center border-white/15">
             {/* <Image src={"/assets/logo.png"} width={100} height={20} alt="Adcelerate X logo"  className="w-full"/> */}
-            <div className="text-[21px] font-bold tracking-wide ">
-              Adcelerate
-            </div>
+            <div className="text-[21px] font-bold tracking-wide ">ShopOr</div>
+
             <div className="text-[21px] font-bold tracking-wide text-yellow-400 ">
-              X
+              Stop
             </div>
           </div>
           {/* <div className="hidden md:block">
@@ -44,7 +43,7 @@ export const Header = () => {
             <Button
               onClick={() =>
                 (window.location.href =
-                  "mailto:support@adceleratex.com?subject=Inquiry")
+                  "mailto:varghesetony901@gmail.com?subject=Inquiry")
               }
               className="cursor-pointer"
             >
